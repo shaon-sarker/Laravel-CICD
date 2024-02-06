@@ -18,4 +18,4 @@ jobs:
         server: ftp.shaonwebdeveloper.xyz
         username: apihost@api.shaonwebdeveloper.xyz
         password: 9rN[SU82kJ[$
-        server-dir: /home/shaonwebdeveloper.xyz/apihost
+        server-dir: /api.shaonwebdeveloper.xyz/apihost
